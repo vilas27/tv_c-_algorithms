@@ -1,0 +1,4 @@
+<AUDIO type="SND_PCM_FORMAT_S16_LE" freq="8000">
+	<DEVICE id="0" channel="2"/>
+	<BLOCK size="256"/>
+</AUDIO>
