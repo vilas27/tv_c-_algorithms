@@ -14,7 +14,11 @@ Use rapidxml 1.3 to read a file with the audio configurations (Audio, Devise, Sa
 
 The result is a pointer to a array of ints (int*) with all the channels together.
 
+With project for linux using Eclipse Oxygen.
+
 ## App to use the Audio Grabber
 Recive the array (int*) from the grabber and split the channels into a differents vectors.
 
 Save the vectores to binnary files.
+
+With project for linux using Eclipse Oxygen.
